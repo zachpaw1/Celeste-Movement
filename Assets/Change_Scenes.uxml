@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="Scenes">
+        <ui:Button text="Change Scenes" display-tooltip-when-elided="true" name="Button" style="height: 39px; width: 106px;" />
+    </ui:VisualElement>
+</ui:UXML>
